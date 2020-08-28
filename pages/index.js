@@ -26,7 +26,11 @@ export default function Home() {
         </Fragment>
         <title>hey fuck you karen</title>
       </Head>
-      <div></div>
+      <div class="container">
+        <a href="https://twitter.com/JimGaffigan/status/1299206772364902400">
+          <img class="resize_fit_center" src="/fuckyoukaren.png" />
+        </a>
+      </div>
     </div>
   );
 }
